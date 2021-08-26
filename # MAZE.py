@@ -11,7 +11,7 @@ import numpy as NP
 from pygame.constants import HAT_RIGHT, KEYDOWN, K_1, K_2, K_RETURN, K_a, K_c, K_d, K_e, K_f, K_k, K_l, K_m, K_r, K_s, K_w, SCALED
 from collections import deque
 pygame.init()
-pygame.display.set_caption("Pathfinding Visualizer")
+pygame.display.set_caption("Maze Visualizer")
 sys.setrecursionlimit(10**6)
 
 #///COLOR//////////////////////////////////////////////////////////////
